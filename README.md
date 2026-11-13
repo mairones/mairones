@@ -15,8 +15,8 @@
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **UniFacema**
 - 🛠️ **Técnico em Informática** formado pelo **IFMA**
-- 🌱 Focado em **desenvolvimento web e back-end**, sempre aprendendo algo novo
-- 🤝 Trabalhando em projetos em equipe, com Git, branches e pull requests
+- 🌱 Focado em **desenvolvimento web e back-end**
+- 🤝 Trabalhando em projetos em equipe
 - 📍 Maranhão, Brasil 🇧🇷
 
 ## 🧰 Tecnologias
