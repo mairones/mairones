@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,ts,react,cs,git,github,vscode&theme=dark" alt="Tecnologias" />
+<img src="https://skillicons.dev/icons?i=html,css,ts,react,c,cpp,cs,git,github,vscode&theme=dark" alt="Tecnologias" />
 
 </div>
 
@@ -39,7 +39,6 @@
 ## 📌 Em destaque
 
 - 🧠 [**Social Anxiety**](https://github.com/isacGhilardi/Social-Anxiety) — projeto em equipe, onde atuo no front-end
-- 🌐 [**Conceitos Básicos de HTML**](https://github.com/mairones/Conceitos-B-sicos-de-HTML) — meus primeiros passos na web
 
 ---
 
