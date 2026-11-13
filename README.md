@@ -1,7 +1,7 @@
 <!-- Cabeçalho animado -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ícaro%20Mairon&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dev%20em%20construção%20·%20Maranhão,%20Brasil&descSize=18&descAlignY=60" alt="Cabeçalho Ícaro Mairon" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ícaro%20Mairon&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Análise%20e%20Desenvolvimento%20de%20Sistemas%20·%20Maranhão,%20Brasil&descSize=18&descAlignY=60" alt="Cabeçalho Ícaro Mairon" />
 
 <a href="https://github.com/mairones">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C%20eu%20sou%20o%20%C3%8Dcaro%21;Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas;T%C3%A9cnico%20em%20Inform%C3%A1tica%20pelo%20IFMA;Aprendendo%2C%20quebrando%20e%20consertando%20c%C3%B3digo" alt="Texto animado de apresentação" />
